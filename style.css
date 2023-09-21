@@ -1,0 +1,35 @@
+
+
+html {
+    max-width: 960px;
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: 'Playfair Display', serif;   
+}
+
+figcaption {
+    font-size: 80%;
+}
+
+img {
+    max-width: 70%;
+    padding: 5%;
+    background-color: bisque;
+} 
+
+figcaption {
+    font-size: 80%;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+h1 {
+    font-family: cursive;
+    font-weight: bolder;
+    text-indent: 28%;
+}
+
+h2 {
+    font-family: cursive;
+    font-weight: bolder;
+    text-indent: 20%;
